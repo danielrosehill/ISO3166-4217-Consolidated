@@ -1,0 +1,80 @@
+[
+  {
+    "country_common_name": "Bhutan",
+    "currency_1": {
+      "name": "Indian Rupee",
+      "alphabetic_code": "INR",
+      "numeric_code": "356"
+    },
+    "currency_2": {
+      "name": "Ngultrum",
+      "alphabetic_code": "BTN",
+      "numeric_code": "64"
+    }
+  },
+  {
+    "country_common_name": "Haiti",
+    "currency_1": {
+      "name": "Gourde",
+      "alphabetic_code": "HTG",
+      "numeric_code": "332"
+    },
+    "currency_2": {
+      "name": "US Dollar",
+      "alphabetic_code": "USD",
+      "numeric_code": "840"
+    }
+  },
+  {
+    "country_common_name": "Lesotho",
+    "currency_1": {
+      "name": "Loti",
+      "alphabetic_code": "LSL",
+      "numeric_code": "426"
+    },
+    "currency_2": {
+      "name": "Rand",
+      "alphabetic_code": "ZAR",
+      "numeric_code": "710"
+    }
+  },
+  {
+    "country_common_name": "Namibia",
+    "currency_1": {
+      "name": "Namibia Dollar",
+      "alphabetic_code": "NAD",
+      "numeric_code": "516"
+    },
+    "currency_2": {
+      "name": "Rand",
+      "alphabetic_code": "ZAR",
+      "numeric_code": "710"
+    }
+  },
+  {
+    "country_common_name": "Panama",
+    "currency_1": {
+      "name": "Balboa",
+      "alphabetic_code": "PAB",
+      "numeric_code": "590"
+    },
+    "currency_2": {
+      "name": "US Dollar",
+      "alphabetic_code": "USD",
+      "numeric_code": "840"
+    }
+  },
+  {
+    "country_common_name": "Venezuela, Bolivarian Republic of",
+    "currency_1": {
+      "name": "Bolívar Soberano",
+      "alphabetic_code": "VES",
+      "numeric_code": "928"
+    },
+    "currency_2": {
+      "name": "Bolívar Soberano",
+      "alphabetic_code": "VED",
+      "numeric_code": "926"
+    }
+  }
+]
